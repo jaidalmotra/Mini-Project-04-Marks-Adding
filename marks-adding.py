@@ -1,3 +1,5 @@
+#result in being printed in terminal in this code
+
 import csv
 
 def calculate_total_marks(csv_file):
