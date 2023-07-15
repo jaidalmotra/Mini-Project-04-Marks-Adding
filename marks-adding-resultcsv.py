@@ -1,3 +1,5 @@
+# IN this code a result.csv file will be generated to contain the final result instead of printing the result in the terminal
+
 import csv
 
 def calculate_total_marks(csv_file):
